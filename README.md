@@ -1,4 +1,4 @@
-# Arnaud Rabel Portfolio 🌐  
+# 🌐 Arnaud Rabel Portfolio   
 Welcome to the repository of my personal portfolio website! This site was built to showcase my projects, skills, and professional journey with an interactive touch of creative coding.
 
 ## 🖥️ Live Website  
