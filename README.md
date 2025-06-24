@@ -2,12 +2,12 @@
 
 Welcome to the repository of my personal portfolio website! This site was built to showcase my projects, skills, and professional journey with an interactive touch of creative coding.
 
-## 🖥️ Live Website  
+<h2 align="center">🖥️ Live Website</h2>  
 Check out my portfolio live at: [arnaudrabel.com](https://arnaudrabel.com/)  
 
 ---
 
-## 🚀 About This Project  
+<h2 align="center">🚀 About This Project</h2>
 This portfolio serves as a personal showcase where I present my development projects and offer a deeper insight into my skills and experience.  
 The website is **fully responsive** and delivers an **interactive experience**. 
 
@@ -20,7 +20,7 @@ The website is **fully responsive** and delivers an **interactive experience**.
 
 ---
 
-## 📂 Features  
+<h2 align="center">📂 Features</h2>
 - **🎨 Interactive Design**: Dynamic visuals and animations with p5.js.  
 - **📱 Fully Responsive**: Optimized for mobile and desktop devices.  
 - **📁 Projects Section**: Showcasing my best work and achievements.  
@@ -28,7 +28,7 @@ The website is **fully responsive** and delivers an **interactive experience**.
 
 ---
 
-## 📧 Contact Me  
+<h2 align="center">📧 Contact Me</h2> 
 Feel free to reach out for any inquiries or collaboration opportunities:  
 
 - **Email**: [arnaud.rabel@gmail.com](arnaud.rabel@gmail.com)  
@@ -36,7 +36,7 @@ Feel free to reach out for any inquiries or collaboration opportunities:
 
 ---
 
-## 📄 License  
+<h2 align="center">📄 License</h2>
 This project is licensed under the **MIT License**. You are free to use, modify, and share it.  
 
 ---
