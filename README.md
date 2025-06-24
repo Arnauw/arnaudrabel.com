@@ -13,7 +13,7 @@ The website is **fully responsive** and delivers an **interactive experience**.
 
 ### 🔧 Technologies Used  
 - **PHP**: The core programming language for backend logic.
-- **Symfony**: For backend logic.
+- **Symfony**: PHP framework for robust backend development and API management.
 - **Twig**: Used with Symfony for dynamic HTML template rendering.
 - **React**: For building the user interface and managing components.  
 - **CSS3**: For styling and layout design.  
