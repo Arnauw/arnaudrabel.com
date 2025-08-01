@@ -1,3 +1,9 @@
+<h1 align="center">🚧 Under Construction 🚧</h1>
+
+---
+---
+---
+
 <h1 align="center">🌐 Arnaud Rabel Portfolio 🌐</h1>
 
 Welcome to the repository of my personal portfolio website! This site was built to showcase my projects, skills, and professional journey with an interactive touch of creative coding.
